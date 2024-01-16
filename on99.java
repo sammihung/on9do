@@ -1,5 +1,5 @@
 public class on99{
   public static void main(String[]on9do){
-  print 
+  System.out.printls("on9do")
   }
 }
